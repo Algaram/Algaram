@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Algaram
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing yet just learning
-- 📫 How to reach me here
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got a dog!
+### Hi, I'm (Alex)ander Ramirez 👋
+
+⭐️ **About Me:**
+- 🎓 I'm a Computer Science Major at Colgate University and I intend to Minor in Art and Art History!
+- 🏙️ I'm originally from the Philippines and I moved to Chicago in 2016!
+- 🧱 I'm a pretty quick learner. I love interacting with others and exchanging ideas during collaboration!
+
+💻 **Tech Stack:**
+- 📚 Languages: Python, JavaScript
+- 🛠️ Tools and Frameworks: HTML/CSS, React.js, Vite, Git, Node.js, p5.js
+
+🚀 **Projects:**
+- 🍽️ My first project was a food recipe generator for our university and since then have embarked on more challenges!
+- 🔎 I'm currently working on creating an AI search engine with a friend!
+
+🙌 **Let's Connect:**
+- ✉️ Find me on LinkedIn or send me a message here!
+
 
 <!---
 Algaram/Algaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
