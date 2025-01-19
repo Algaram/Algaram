@@ -12,7 +12,7 @@
 🚀 **Projects:**
 - 🍽️ My first project was an AI food recipe generator for our university and since then have embarked on more challenges!
 - 🎨 A favorite project of mine is my recently created A3 presentation where we had to make our own iteration of early digital art.
-- 🔎 I'm currently working on creating an AI search engine with a friend!
+- 🔎 I'm currently working on a video game made with JavaScript with a friend!
 
 🙌 **Let's Connect:**
 - ✉️ Find me on LinkedIn or send me a message here!
