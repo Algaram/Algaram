@@ -1,12 +1,12 @@
 ### Hi, I'm (Alex)ander Ramirez 👋
 
 ⭐️ **About Me:**
-- 🎓 I'm a Computer Science Major at Colgate University and I intend to Minor in Art and Art History!
+- 🎓 I'm a Computer Science Major at Colgate University and a Minor in Art and Art History!
 - 🏙️ I'm originally from the Philippines and I moved to Chicago in 2016!
 - 🧱 I'm a pretty quick learner. I love interacting with others and exchanging ideas during collaboration!
 
 💻 **Tech Stack:**
-- 📚 Languages: Python, JavaScript
+- 📚 Languages: Python, JavaScript, Java
 - 🛠️ Tools and Frameworks: HTML/CSS, React.js, Vite, Git, Node.js, p5.js
 
 🚀 **Projects:**
