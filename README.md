@@ -6,8 +6,8 @@
 - 🧱 I'm a pretty quick learner. I love interacting with others and exchanging ideas during collaboration!
 
 💻 **Tech Stack:**
-- 📚 Languages: Python, JavaScript, Java, C, XML
-- 🛠️ Tools and Frameworks: HTML/CSS, React.js, Vite, Git, Node.js, p5.js, Agile, AWS
+- 📚 Languages: Python, JavaScript, Java, C, XML, C++
+- 🛠️ Tools and Frameworks: HTML/CSS, React.js, Vite, Git, Node.js, p5.js, Agile, AWS, AZDO
 
 🚀 **Projects:**
 - 🍽️ My first project was an AI food recipe generator for our university and since then have embarked on more challenges!
